@@ -16,7 +16,7 @@ Before setting up the project, ensure you have the following installed:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/JordinPinzon/Githooks.git
    cd Githooks
    ```
 
